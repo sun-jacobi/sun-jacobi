@@ -1,7 +1,14 @@
-###  Kyoto University
-#### Bachelor of Engineering - BE
-#### Undergraduate School of Informatics and Mathematical Science
+
+A First Year Undergraduate Student @ Kyoto University
+
+Major In Computer Science and Appiled Math
+
+#### Most Used Language: 
 
 + Rust/C++/Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun-jacobi)](https://github.com/anuraghazra/github-readme-stats)
+#### Currently interested in:
+ 
++  Discrete Optimization
++  Computer Network
++  Machine Learning Systems
