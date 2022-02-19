@@ -12,3 +12,5 @@ Major In Computer Science and Appiled Math
 +  Discrete Optimization
 +  Computer Network
 +  Machine Learning Systems
+
+Fun Fact： Cat is my favourite animal, but my icon is not my own cat
