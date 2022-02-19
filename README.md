@@ -1,7 +1,7 @@
 
 A First Year Undergraduate Student @ Kyoto University
 
-Major In Computer Science and Appiled Math
+Major In Computer Science and Applied Math
 
 #### Most Used Language: 
 
