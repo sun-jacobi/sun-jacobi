@@ -7,4 +7,8 @@ Major In Computer Science and Applied Math
 
 + Rust/Java/Python/C++
 
-Fun Fact： Cat is my favourite animal, but my icon is not my own cat
+
+A Database/PL/MLSys enthusiast
+
+
+Fun Fact： SUN is just my first name :)
