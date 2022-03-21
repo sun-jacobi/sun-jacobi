@@ -11,4 +11,4 @@ Major In Computer Science and Applied Math
 A Database/PL/MLSys enthusiast
 
 
-Fun Fact： SUN is just my first name :)
+Fun Fact： SUN is just my Last Name :)
