@@ -1,5 +1,5 @@
 
-A First Year Undergraduate Student @ Kyoto University
+A Second Year Undergraduate Student @ Kyoto University
 
 Major In Computer Science and Applied Math
 
