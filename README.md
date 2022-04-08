@@ -7,8 +7,12 @@ Major In Computer Science and Applied Math
 
 + Rust/Java/Python/C++
 
+Interested In System Engineering
 
-A Database/PL/MLSys enthusiast
+A Rust Enthusiast/OSS NewBie
 
 
-Fun Fact： SUN is just my Last Name :)
+Fun Fact： 
+- SUN is just my Last Name :) 
+- You can call me Jacob or sonka :) 
+
