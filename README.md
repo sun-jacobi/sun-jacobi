@@ -5,7 +5,7 @@ Major In Computer Science and Applied Math
 
 #### Most Used Language: 
 
-+ Rust/Java/Python/C++
++ Rust/Python/C++/Go/Java
 
 Interested In System Engineering
 
