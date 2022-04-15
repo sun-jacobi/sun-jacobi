@@ -3,7 +3,7 @@ A Second Year Undergraduate Student @ Kyoto University
 
 Major In Computer Science and Applied Math
 
-#### Most Used Language: 
+#### Language: 
 
 + Rust/Python/C++/Go/Java
 
