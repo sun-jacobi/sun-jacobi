@@ -3,9 +3,8 @@ A Second Year Undergraduate Student @ Kyoto University
 
 Major In Computer Science and Applied Math
 
-#### Language: 
-
 + Rust/Python/C++/Go/Java
++ RISC-V
 
 Interested In System Engineering
 
