@@ -6,7 +6,7 @@ Major In Computer Science and Applied Math
 + Rust/Python/C++/Go/Java
 + RISC-V
 
-Interested In System Engineering
+Interested In System Engineering/Machine Learning
 
 A Rust Enthusiast/OSS NewBie
 
