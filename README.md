@@ -1,17 +1,11 @@
 
-A Second Year Undergraduate Student @ Kyoto University
+#### Second Year Undergraduate Student @ Kyoto University
 
 Major In Computer Science and Applied Math
 
-+ Rust/Python/C++/Go/Java
-+ RISC-V
-
 Interested In System Engineering/Machine Learning
 
-A Rust Enthusiast/OSS NewBie
+#### Contact:
 
-
-Fun Fact： 
-- SUN is just my Last Name :) 
-- You can call me Jacob or sonka :) 
+`["sun1011jacobi", "gmail.com"].join("@")`
 
