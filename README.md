@@ -1,5 +1,4 @@
-
-#### Undergraduate Student @ Kyoto University
+UG @ Kyoto University
 
 
 
